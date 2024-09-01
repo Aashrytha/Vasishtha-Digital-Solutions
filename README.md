@@ -1,1 +1,2 @@
-# Vasishtha-Digital-Solutions
+# Vasishtha
+Vasishtha Digital Solutions
